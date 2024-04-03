@@ -10,8 +10,8 @@ Working on right now:
 
 <div align="center">
     <a href="https://github.com/HallZero"/>
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hallzero&show_icons=true&theme=synthwave&hide_border=true"/>
-    <img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallZero&theme=synthwave&hide_border=true&layout=compact"/>
+    <img width="60%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=hallzero&show_icons=true&theme=synthwave&hide_border=true"/>
+    <img width="38.25%" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=HallZero&theme=synthwave&hide_border=true&layout=compact"/>
 </div>
 
 ### Contact me
